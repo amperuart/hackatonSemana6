@@ -9,3 +9,8 @@
     - Content first
 
 2. ¿Cuáles son los beneficios de RWD?
+    - Mejora la experiencia del usuario
+    - Reduce los costos de desarrollo y mantenimiento web
+    - Carga el sitio más rápido
+    - Mejora la experiencia de navegación y la analítica web
+    - Posiciona mejor el sitio en los motores de búsqueda
